@@ -1,0 +1,9 @@
+{
+  "name": "task-board",
+  "version": "0.1.0",
+  "description": "Persistent personal task list with a live sidebar board. Create, tag, and action tasks via chat or directly from the board.",
+  "author": {
+    "name": "Chris Gallivan"
+  },
+  "keywords": ["tasks", "todo", "productivity", "task-board"]
+}

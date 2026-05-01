@@ -1,0 +1,12 @@
+{
+  "tag_icons": {
+    "urgent": "🔥",
+    "todo": "📋",
+    "followup": "📞",
+    "meeting": "🗓️",
+    "demo": "🎯",
+    "review": "👀",
+    "blocked": "🚧",
+    "waiting": "⏳"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tasks": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with", "mcp>=1.0.0",
+        "${CLAUDE_PLUGIN_ROOT}/servers/tasks/server.py"
+      ]
+    }
+  }
+}
