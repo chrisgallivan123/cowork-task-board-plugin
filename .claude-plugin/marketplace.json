@@ -1,0 +1,12 @@
+{
+  "name": "Task Board Plugins",
+  "description": "Personal productivity plugins for Cowork",
+  "plugins": [
+    {
+      "id": "task-board",
+      "name": "Task Board",
+      "description": "Persistent personal task list with a live sidebar board. Create, tag, and action tasks via chat or directly from the board.",
+      "path": "."
+    }
+  ]
+}
