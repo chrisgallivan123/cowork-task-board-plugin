@@ -1,12 +1,24 @@
 {
-  "name": "Task Board Plugins",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cowork-task-board-plugin",
   "description": "Personal productivity plugins for Cowork",
+  "owner": {
+    "name": "Chris Gallivan",
+    "email": "chris.gallivan@planview.com"
+  },
   "plugins": [
     {
-      "id": "task-board",
-      "name": "Task Board",
+      "name": "task-board",
       "description": "Persistent personal task list with a live sidebar board. Create, tag, and action tasks via chat or directly from the board.",
-      "path": "."
+      "author": {
+        "name": "Chris Gallivan"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chrisgallivan123/cowork-task-board-plugin.git"
+      },
+      "homepage": "https://github.com/chrisgallivan123/cowork-task-board-plugin"
     }
   ]
 }
